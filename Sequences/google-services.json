@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "501023345304",
+    "firebase_url": "https://hand-on-989cf-default-rtdb.firebaseio.com",
+    "project_id": "hand-on-989cf",
+    "storage_bucket": "hand-on-989cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501023345304:android:051ee01e85531e31461eed",
+        "android_client_info": {
+          "package_name": "com.example.counter_app_realtime_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501023345304-vug3uthln2fqqcpi5vq3f8b486o66fas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChcn-7I4oQJxOrV6oll49gsl7cZB5GYUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501023345304-vug3uthln2fqqcpi5vq3f8b486o66fas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
